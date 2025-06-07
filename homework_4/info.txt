@@ -1,7 +1,0 @@
-DE300 Homework 4
-
-Teammates: (Nicky Williams), Rachel Silverman, Amrita Natarajan
-
-MWAA Environment Name: mse-tl-dataeng300-EMR
-
-S3 Bucket Name: natarajan-williams-silverman-bucket
