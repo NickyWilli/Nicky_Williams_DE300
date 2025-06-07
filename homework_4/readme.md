@@ -38,4 +38,4 @@ Packages: pandas, numpy, requests, boto3, matplotlib, scikit-learn, pendulum (pr
 Make sure your Airflow environment includes all dependencies via the requirements.txt
 
 
-GenAI Disclosure: No AI was used for this assignment (but various help from TAs who were was!)
+GenAI Disclosure: No AI was used for this assignment (but various help from TAs was!)
