@@ -36,3 +36,6 @@ Apache Airflow
 Python 3.7+
 Packages: pandas, numpy, requests, boto3, matplotlib, scikit-learn, pendulum (provided in the code)
 Make sure your Airflow environment includes all dependencies via the requirements.txt
+
+
+GenAI Disclosure: No AI was used for this assignment (but various help from TAs who were was!)
