@@ -38,4 +38,5 @@ Packages: pandas, numpy, requests, boto3, matplotlib, scikit-learn, pendulum (pr
 Make sure your Airflow environment includes all dependencies via the requirements.txt
 
 
-GenAI Disclosure: No AI was used for this assignment (but various help from TAs was!)
+GenAI Disclosure: AI was used in this assignment to assist with writing and debugging the Apache Airflow DAGs. Specifically, AI was used to find and fix errors related to data types (handling NoneType vs. datetime), and to determine the appropriate strategies for handling missing values in the dataset. All prompts were related to technical debugging, data cleaning decisions, and DAG structure guidance (such as feeding AI the error, feeding AI our code and asking if this methodology was precise for the question, etc.) Final implementation and decisions were made by the team. 
+
